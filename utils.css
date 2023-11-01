@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+}
+.flex-dir {
+    flex-direction: column;
+}
+.flex-rev {
+    flex-direction: row-reverse;
+}
+.align-item {
+  align-items: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: end;
+}
+.box-right {
+    right: 0;
+}
+.box-left {
+  left: 0;
+}

@@ -1,0 +1,23 @@
+@media (max-width: 799px) {
+    img {
+      width: 100%;
+    }
+    .wrapper {
+      display: block;
+    }
+    .hero {
+      text-align: left;
+      
+    }
+    .border-box {
+      display: none;
+    }
+  }
+  @media (min-width: 800px) and (max-width: 1024px) {
+    img {
+      width: 300px;
+    }
+    .para {
+      font-size: 0.8rem;
+    }
+  }
